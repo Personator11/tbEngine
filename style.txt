@@ -1,0 +1,3 @@
+Classes are PascalCase
+member variables and class methods are camelCase
+basically just use java conventions lmao
