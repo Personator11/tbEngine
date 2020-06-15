@@ -1,7 +1,9 @@
 #pragma once
 
+#include "Core.h"
+
 namespace tbEngine {
-	class Application
+	class TB_API Application
 	{
 	public:
 		Application();
