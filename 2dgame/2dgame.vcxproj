@@ -81,6 +81,12 @@
       <Project>{7068b5da-c2ce-43ea-a52e-068a46af55c8}</Project>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Header.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Source.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
